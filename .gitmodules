@@ -1,3 +1,6 @@
 [submodule "hw01"]
 	path = hw01
 	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/webdev/homeworks/01-suggest.git
+[submodule "hw02"]
+	path = hw02
+	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/webdev/homeworks/02-rest-api.git
