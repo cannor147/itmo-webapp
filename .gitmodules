@@ -1,9 +1,9 @@
-[submodule "hw01"]
-	path = hw01
-	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/webdev/homeworks/01-suggest.git
-[submodule "hw02"]
-	path = hw02
-	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/webdev/homeworks/02-rest-api.git
-[submodule "hw03"]
-	path = hw03
-	url = git@gitlab.com:yandex-courses/frontend/ifmo/2019-2020/webdev/homeworks/redux.git
+[submodule "hw01-suggest"]
+	path = hw01-suggest
+	url = git@github.com:cannor147/itmo-webapp-hw01-suggest.git
+[submodule "hw02-rest-api"]
+	path = hw02-rest-api
+	url = git@github.com:cannor147/itmo-webapp-hw02-rest-api.git
+[submodule "hw03-redux"]
+	path = hw03-redux
+	url = git@github.com:cannor147/itmo-webapp-hw03-redux.git
